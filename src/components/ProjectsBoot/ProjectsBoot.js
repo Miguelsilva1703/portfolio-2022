@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 import { IconContext } from "react-icons";
 import { ProjectSection, ProjectsTitle, Card, CardHeader, CardImg, CardTitle, CardDescription, CardBtns } from "./ProjectsBootElements";
 import soon from "../../images/comingsoon.webp";
