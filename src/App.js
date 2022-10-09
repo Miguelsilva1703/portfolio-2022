@@ -1,4 +1,5 @@
 import { React, useState } from "react";
+import './app.css';
 import GlobalStyle from "./components/Styles/GlobalStyles";
 import Navigation from "./components/Nav/Nav";
 import SideNav from "./components/Nav/SideNav";

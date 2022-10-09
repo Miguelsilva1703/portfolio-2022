@@ -15,7 +15,7 @@ export const Stylednav = styled.nav`
     z-index: 10;
     .logoSpan {
         color: #de3b0b;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
     span {
         font-size: 1.3rem;
